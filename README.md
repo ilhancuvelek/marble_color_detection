@@ -1,2 +1,2 @@
-# marble_color_detection
+# Marble Color Detection (Mermer Renk Tespiti)
  
